@@ -1,1 +1,1 @@
-This repository consists of basic understanding of Machine learning projects which I have completed while pursuing an Internship
+This repository contains a collection of machine learning projects I completed during my internship. These projects demonstrate my understanding of core machine learning concepts and their practical applications. The repository serves as a showcase of my work and learning in the field of machine learning.
